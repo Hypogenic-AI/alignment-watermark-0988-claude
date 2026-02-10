@@ -1,0 +1,25 @@
+idea:
+  title: Alignment is the Watermark
+  domain: artificial_intelligence
+  hypothesis: "Base language models trained solely to match data distributions are\
+    \ not AI detectable, as they replicate the distribution itself. In contrast, aligned\
+    \ models\u2014regardless of the specific definition of alignment\u2014are likely\
+    \ to be AI detectable due to their characteristic choices in language, honesty,\
+    \ and competence. Therefore, it is expected that while base models may become\
+    \ undetectable, aligned models will remain detectable by other AIs.\n"
+  background:
+    description: The ideal base LM (just trained to distribution match) is not AI
+      detectable, because it is the distribution. However, the ideal aligned model,
+      for almost any definition of alignment in the Overton window, is likely AI detectable
+      because its choice of balanced words and actions, its honesty, and its competence.
+      Therefore it should be no surprise to us if base models are eventually completely
+      undetectable, but aligned models are inevitably AI detectable, at least by other
+      AIs.
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/QOrmM1PyCsKks8ljUW4R
+    idea_id: alignment_is_the_watermark_20260210_231828_d74b509d
+    created_at: '2026-02-10T23:18:28.926620'
+    status: submitted
+    github_repo_name: alignment-watermark-0988-claude
+    github_repo_url: https://github.com/Hypogenic-AI/alignment-watermark-0988-claude
