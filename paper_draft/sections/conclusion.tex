@@ -1,0 +1,22 @@
+\section{Conclusion}
+\label{sec:conclusion}
+
+We have presented empirical evidence that alignment training creates an implicit watermark in LLM outputs.
+Across three model families, three detection paradigms, and 12 independent comparisons, aligned models are consistently and significantly more detectable than their base counterparts (sign test $p = 0.006$).
+The watermark manifests as increased structural regularity---reduced sentence-length variability and higher token-level predictability---and is detectable by both statistical methods (AUROC +0.09 to +0.35) and by other LLMs (TPR 97.5--100\% on aligned text vs.\ 85--96.3\% on base text).
+
+These findings have practical implications.
+If alignment is the watermark, then explicit watermarking may be unnecessary for aligned models, which already carry a durable detection signal.
+Detection research should focus on exploiting the alignment watermark rather than imposing external marks.
+Policymakers should recognize that the very process of making AI helpful provides a natural accountability mechanism.
+
+The fundamental insight is this: there is an inherent tension between making AI useful and making AI undetectable.
+A perfect base model approximates the human distribution and approaches undetectability.
+The moment we align that model to serve human preferences, we create a distributional shift that guarantees detectability.
+Alignment is not merely a target for detection---it \emph{is} the detection signal.
+
+\para{Future work.}
+Three directions are most promising.
+First, testing across additional domains (creative writing, conversation, code) and model families would establish the generality of the alignment watermark.
+Second, isolating the contributions of different alignment stages (SFT vs.\ RLHF vs.\ DPO) on the same base model would clarify which stage creates the strongest signal.
+Third, adversarial robustness testing---whether paraphrasing, back-translation, or prompt engineering can erase the alignment watermark while preserving helpfulness---would determine whether the watermark represents a fundamental trade-off or an erasable artifact.

@@ -1,0 +1,40 @@
+{
+  "model_counts": {
+    "human": 15603,
+    "llama-chat": 31206,
+    "mpt": 31206,
+    "mpt-chat": 31206,
+    "gpt2": 30335,
+    "mistral": 30222,
+    "mistral-chat": 30222
+  },
+  "domain_counts": {
+    "abstracts": 200000
+  },
+  "decoding_counts": {
+    "None": 15603,
+    "greedy": 92199,
+    "sampling": 92198
+  },
+  "attack_counts": {
+    "none": 22958,
+    "whitespace": 22958,
+    "upper_lower": 22958,
+    "synonym": 22958,
+    "perplexity_misspelling": 22958,
+    "paraphrase": 22958,
+    "number": 22958,
+    "insert_paragraphs": 22958,
+    "homoglyph": 16336
+  },
+  "base_models": [
+    "gpt2",
+    "mistral",
+    "mpt"
+  ],
+  "chat_models": [
+    "llama-chat",
+    "mistral-chat",
+    "mpt-chat"
+  ]
+}

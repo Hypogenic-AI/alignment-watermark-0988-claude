@@ -1,0 +1,5602 @@
+[
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_12966465-f7fb-4019-967c-3231c4c2d909",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_57782d19-642c-44e0-8ebc-1408904b770e",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_b91e03aa-c719-4fb7-9279-ff05020ce14c",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_4f72dde4-9d71-4c2c-a9e9-19c831d3d2b4",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_25bf5762-79a2-4034-ae85-e1035e44f71d",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_acb35f18-1565-46ff-8ffc-77d0f1a35836",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_05ada7b3-cec3-4793-aaef-e953efa9a9d8",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_bec92e93-d17a-4252-86da-9e53c55211b4",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_f9bd0e9d-1fba-4d46-a478-4c128430e1a3",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_9aeb73c6-ecf5-41a0-a105-fa0d657a8611",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_5e23ab14-b85f-48e8-9aa3-15452e73524e",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_8a74b221-8794-4a05-b598-b856f58d6f5e",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_879e3342-0a76-4c41-8fe4-a898f8a8deba",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_996a50cb-2911-4900-ad48-7ec8df8c4eaa",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_cc977833-8dc5-4c82-b84e-9f377b03d93b",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_8e3e4546-df8d-4614-bc11-e6c43ed62152",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_c55bff8c-9fd1-4f6c-ad8f-166da3ebb98e",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "human",
+    "text_id": "human_2b623feb-b86c-48f8-84df-83ac9d36359f",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_03a8c18b-08bd-4203-8a43-d3cc14737772",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_1a65d25b-3193-4529-8d5a-98c75a918037",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_03500688-d14a-49a0-b8bb-c69ed86b9284",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_154b0582-7e9b-4bef-b78a-c5391cfaa214",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_6229cf32-7026-477a-92a7-7e875ae06994",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_c45482a8-bee0-42ab-abf7-1c4177d59c2c",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_a3ac3bc2-73ce-4a07-90a0-8eb60b5215f1",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_0b11bd72-d4f8-474f-af48-981a07750981",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_ee93e1b5-f19f-4ab6-9f31-b95aba71e133",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_3ce9a084-3b0a-4e7c-aeab-acb4b02105b3",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "human",
+    "text_id": "human_36f82111-ad27-4407-9c52-b884f3302815",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_9cf5348a-2e51-4261-a14d-f4f265fc8451",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.82,
+    "ai_score": 0.18000000000000005,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.82}",
+    "category": "human",
+    "text_id": "human_27a0d1fb-ff88-4fee-b4a0-37c97a3f02df",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_b761e70a-7779-459f-9294-d9aa185b889e",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.93,
+    "ai_score": 0.06999999999999995,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.93}",
+    "category": "human",
+    "text_id": "human_bf97a858-426d-4cd0-866d-07d5c4568500",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_6e8be1dc-7f31-4511-9832-b8e324403bfb",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_856d8972-9e3d-4544-babc-0fe16f21e04d",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.93,
+    "ai_score": 0.06999999999999995,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.93}",
+    "category": "human",
+    "text_id": "human_9f24bc06-00f8-4185-8ed3-e40d88877b25",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_a2454138-3120-43cc-8944-8ce53cbb2e4f",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "human",
+    "text_id": "human_c0292110-f6e8-4a0f-a23c-1baafe82481c",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_ade3fd87-30b8-4664-91fa-61b2bb99c132",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_ca413b45-4e39-4c31-a986-9d8f38c02a9f",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_3af8cca1-46b8-4a83-a7a8-4ab7fd15ffc9",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_9f504e80-00f5-491e-a43d-003687f64ea4",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_aa3a4f13-eb0a-4536-bbc4-146fe79f61dc",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_9596d503-ffc7-4359-ad4a-48aad4a13cdb",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_59635421-a84f-4293-be66-323c49fca652",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_e346ff27-0566-4875-93c4-2099b7a279d6",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_e5e058ce-be2b-459d-af36-32532aaba5ff",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_b00bf7dc-4de9-4ab4-9962-a16e0b5f4628",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_d0075b3f-767f-4a7b-a3bb-79cefbfc775a",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_c404dbd3-7cec-41f5-8b70-968e9212ed7c",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_656f2cf4-7ba8-466e-bd2b-85c1a64fc56b",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_00664552-af87-4295-a1bc-9149639bbe92",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_1204734a-a062-4ab7-95ad-52664d55d8a9",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_8a2a6277-30ae-467f-a2d4-3855ed15cd64",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_7184b7e7-e328-4ad1-acd3-593389fce265",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_bf86b311-04cb-4e22-9749-ff8c962eafb9",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_dce41517-e86c-4d65-a674-43352e023a02",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_ce898c28-428f-446f-975e-a1265942f2da",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_722f13c4-cf25-4279-9191-a023b49e53ea",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_7f6e9b63-40ad-4587-b03e-3492501ed835",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_5594b44a-75ba-4a34-9da4-a5f13a254ec3",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_da1956b4-7d83-46a7-a0f1-a5e6b1e966c5",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_d8324184-d60e-4c4b-a022-75153357bdde",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_c649a474-317d-45be-a71b-c97c07738686",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_17f6f9c7-dcc8-44e1-82b4-8233059f569b",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_d4f93d77-d6d9-4ee1-91d8-58ce8c7fe216",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_d92c9514-5620-4fd6-82d0-0fbcc3b4e739",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_823ab1a3-8a1d-4d4b-bab4-92dcb32285a2",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_34276620-b1c3-4c30-97d5-2f222f881076",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_95d0e88b-1086-4dc1-b2f8-e44817b02150",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_bb5ac623-ef49-4361-9c27-020e9a618760",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_619286a5-2bda-45fe-bba6-ba805ee23782",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_86484d14-c9f8-48f1-9335-45e90b944c97",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.97,
+    "ai_score": 0.030000000000000027,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.97}",
+    "category": "human",
+    "text_id": "human_24d1869e-7eb9-47df-95ab-559549c3b8b3",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_51832a29-800e-4daf-8f49-c94bd6af6aa2",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_71c662e7-3ac3-4064-b750-514e09c95f84",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_90ba909a-1986-450b-b156-f8e371772dc2",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "human",
+    "text_id": "human_ce9b46ec-d192-4df9-9131-0a0851f72029",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "human",
+    "text_id": "human_d65546e9-2eb9-43d1-8c45-ef05f87a1816",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "human",
+    "text_id": "human_9ae1311c-35d7-44af-af22-13712f1ca476",
+    "true_label": "human",
+    "alignment": "human"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_7b057c0c-2dd9-4bdc-ba64-3316311f2fca",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_3f453eb4-3258-4f56-a18d-602553e97646",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_a5e7841c-3943-4a6c-888e-bd0d3d55fd95",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_968759a3-d471-43fd-bdcb-3cbf004b25b1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_562561cf-26a1-4852-82f8-65b94bb7a4a8",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_82e3c9ff-ddeb-40dc-919d-d606c9423b4c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_cf189941-b984-4c43-ae1d-a6e5a99bc43b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_738a43de-c96a-4d8d-9a6d-17778540dfc2",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_220e7eeb-e60b-4ffa-b909-f38759e116fc",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_cdfa2712-7584-4d0d-9cbb-723556d44bb5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_b4f145e0-128f-4adb-b0d5-9b1cf6bf4948",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_73171a1d-5c0f-4696-9152-4f56a9dc6fef",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_13cafe82-6dde-4f47-898b-934a94f5fbe5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_ec2a192d-4bb3-4d4b-876a-e54456503914",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_9ee06269-a5b3-4916-938f-0712e4200b2c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_876f1739-54d6-431e-844c-adec80037939",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_a62eafe1-da9e-4cfc-b3d1-c1e400677122",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_93874db4-abe3-4bca-a0be-18258a10c493",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_9b1fc201-26bd-4f38-bbbc-7d18306e881a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_6c33ca2f-49a0-4b9e-9bd2-2702b2a8f1eb",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_b095aa20-78ed-4595-9c71-908df3c5c5eb",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "error",
+    "confidence": 0.5,
+    "ai_score": 0.5,
+    "raw_response": "Unterminated string starting at: line 1 column 39 (char 38)",
+    "category": "base_mistral",
+    "text_id": "base_mistral_9002bd4c-07c8-4613-afaa-f46e826a9557",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_56e96c5e-018d-4b05-bf6b-3f760d80afa4",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_c75e776e-3a04-4e76-b22e-654b15f9a97f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_368bbe41-4b31-4022-b277-20994a13036c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_f9695736-50db-4f58-8bf7-e1f3ea539b38",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_ec5346a3-25f7-4e50-92ea-dfbcae4c4d0c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_b50f8f7c-983d-4103-9bb7-81c6c09ba967",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_ecf0f4ba-7074-4095-ae50-4e2fc3f3391f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_df8a43fa-aaf6-464d-b0c8-2b3b9cedcb08",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_b7aa07bd-93de-4fef-8e47-7730e5f663f5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.99,
+    "ai_score": 0.99,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.99}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_e4688436-0983-4cab-8128-00f556f6eb83",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_22d56974-3189-41db-bd1c-0683cff305e6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_dc42cb02-20e3-4217-9b6e-9fa1ee1f7d16",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "error",
+    "confidence": 0.5,
+    "ai_score": 0.5,
+    "raw_response": "Unterminated string starting at: line 1 column 39 (char 38)",
+    "category": "base_mistral",
+    "text_id": "base_mistral_7f1633fa-73e5-4ecf-87d6-eb3c45fe61c3",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_6c81edd4-0986-4a8d-8bca-aa89585c8245",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_c281f050-aca5-4f89-a9da-ae1bf94c007f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_af0dab8f-649f-4b90-8a20-e23858596c4d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_2c4e8072-203d-41ca-840c-a56a4b7c495c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_cc67067f-f798-4ad5-937f-2cf31f864ce1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_00baa1e7-5ebc-4c12-9147-829be088b2a0",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_818e949d-19bb-49c2-b8d3-bb01633ed0da",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_dc238083-df76-4f04-9e95-e7191d445d50",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_0dc63841-650b-43db-80bd-6da6856211b0",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_46ec5706-8423-4372-b07f-cc115e51f35d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_de6b2918-1227-4816-a37f-52ebaf9b6c15",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_1e1503b6-f3b7-4a38-ab19-42e7cf48e9ba",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_707b34dc-748a-4584-8ada-a0e6033c72fb",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_40f02ce5-63da-41ba-a04f-0ff8fd21bdef",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_2a476b40-530b-47a0-a86b-13995062574a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_a0fc6680-3b8d-4227-88ea-95542c3b7221",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_6f6dda55-9a4f-4293-a18d-43e0137bb8d9",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_6f0f4626-9bac-4da0-9e3e-5eceeee22786",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.98,
+    "ai_score": 0.020000000000000018,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_01985378-2852-4b1f-9848-c0902e22c4f8",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_893fcbb5-c327-49b4-a2ea-a54c49a7c9b6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_8c89932b-a6c9-44fd-88fe-e81140cd641d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_673bcafc-1b63-438b-91f3-5d0f52ff52b6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_6416716e-ec4b-4973-82ad-7304c381e60d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.99,
+    "ai_score": 0.99,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.99}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_405db3fd-1499-4912-91be-2ced2e5c8447",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_4c5f89da-055e-4659-8e1b-d77a1c2a7e8a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_93bd3243-0612-4a5f-8b9d-f080fb9f8b8c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "error",
+    "confidence": 0.5,
+    "ai_score": 0.5,
+    "raw_response": "Unterminated string starting at: line 1 column 39 (char 38)",
+    "category": "base_mistral",
+    "text_id": "base_mistral_2ab1f4fd-b92e-46bb-aff2-7af773f8026b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_cb2cc9d1-ee21-4be4-9b69-29014b995ed5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_7234ae9c-5acf-4851-bfc5-828693bfc3a3",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_8e0a008a-df31-45f8-9e30-056d066aafdb",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_23ee3147-3302-4319-a5d9-4f7728ef3d49",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_a656a363-5676-4580-ab3c-4d3065588238",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_ec87154e-ea4f-4eb8-ba76-2ef450b0ae50",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_e5d30a0f-243a-4d68-a1f0-abfeac30fa00",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_0fbe53ae-9146-4a79-b8d7-3eb0424e9b1d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_e4393f62-e54e-42cb-b1e3-9ee8ff01fd43",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_231b91bd-591e-4dce-9295-e312b2dcf375",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_4896aa56-6f0e-4200-899c-1ac1b4697fe8",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_d6114d1a-4cab-4a10-a933-393da732bc02",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_2491bd4a-272c-4661-80a4-70769a56614a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_ea7bac63-23d2-408a-ba86-0ee7c77e3ab9",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_7e084b83-f7ba-43f5-b95a-a1e6dbd16738",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_c9e5a8f2-dcf5-4a96-ae50-cf36f8fd00d1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_a5a7b21f-ebd0-4305-b194-326ead1c6d00",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mistral",
+    "text_id": "base_mistral_59cb6702-9bd3-42c4-8688-39a229961568",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_bab706da-2067-46e9-be8c-b4a15e7ae1e2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_1f80cce3-a6f7-4ae0-9a30-24a60d472a49",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_365893db-c72a-4a4b-8432-29db815572f3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_c5fe4026-0e04-4ea1-8548-a00e01ef65fb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_841ecf0b-79de-4ab8-8a76-cf033cd41265",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_9ff59009-5619-42fc-af38-f68765e87126",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_ed6ca93b-73dd-48b6-a37f-6516e342f0cc",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_1e1adc13-af62-48f8-8ec1-3b2343874e57",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_7020ad4d-c23a-4add-bf27-8fa13e3a425c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_ea58140d-f598-45dd-9e76-3a8744e0cd55",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_07bc56f7-e791-4b34-a076-be15f5b093c6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_f2b8f2c2-159a-4332-bf39-5bd88851cf56",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_425e99f8-b4f6-4939-aa91-5dba6a5dbc2a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_5bb8a22e-7f2a-4baf-9358-0f2de0ddfdd2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_d6e943e5-5e48-4106-9bbf-b4ae531a9716",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_09ee0c01-73d4-495e-8fb9-a2530987d0a2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_894493cb-89b1-439f-8c6c-ba0373d6f44d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_f3bed4af-353d-469b-8ace-1ddbc71587b1",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_051c332e-0e53-4e57-bd5a-e94fa6ca287a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_a6fa5878-fde5-4b25-95a6-f73bdd73035e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_10aa1200-1a12-4c69-a861-0ee43b8ec0ac",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_b78ff8de-4c53-46e4-98ff-80ad20ad9a75",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_bdbbcc62-f89f-4caa-9847-38991c7a53b6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_7ec6e99f-4218-4b25-8f61-8fbd71b7079e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_0a4c089f-a16a-429a-978a-7e2aedbedeb8",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_98706ed0-02d6-40d0-bf3b-70a78f2b658a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_f6371166-70b3-46c0-a915-d6bdc7474393",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_8ac5d32f-698e-4d92-854a-dbe1f6fe8230",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_9aa34690-734a-491a-8889-cf1903b2b1f2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_2fb4d818-955b-46e1-a18d-ad6eb3c7d098",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_6c7df0bf-b57c-4a4f-9468-a2249f378e01",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_36a25b57-9b30-4013-89c3-5a9a01097a0b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_2b51d8d5-d6c3-4400-98de-d05284df1cbf",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_ef60d627-d329-40cc-95f5-a0e57bd3998d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_21cc94da-fc2e-4fb9-820b-dc8ceb89b681",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_75945a60-d7fa-4a07-86e3-861fdcd9b6ed",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_8ba345ae-45a2-402c-9db4-81725ec411fb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_3d549008-d03f-49c4-9cc8-adb4ea99afdf",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_39793ad5-58e9-44a6-b587-9f38c74c28bd",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_daf67f31-2de5-4531-8b34-5f9eaf059ae8",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_dfb1bac8-f4fb-4739-891c-2563fbbadc51",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_13f2701e-8e8d-4b37-885c-e08c2fe4dcec",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_61763a14-59f7-45a5-9695-0a0ae2985768",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_a2d35377-7ae0-454b-acbd-75aca1167480",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_92e1d92a-9b9d-420e-a0be-a39ddae70d79",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_98b9c8e3-f03f-400a-a20b-ed1a1e2bd569",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_046bade3-0aae-464b-ab50-b8cd0d261e4a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_3fabe2fb-a5aa-412a-aaee-a534ab71f6ed",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_5625ad9e-018f-4d37-b8d1-1c648ba7934d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_f8a72716-667d-4d07-a645-465b20d0b8b6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_7a1fde41-6a43-4e99-8a02-89038f44c051",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_9cfaa8d9-9e3f-4503-a35b-04902e6972a6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_c68c09ab-5641-4f32-a22d-058ce53a3681",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_dfec81d1-3ece-4ebe-9e7d-356446fb57d1",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_fbba3121-87a9-4f3b-bb74-e70dbde3f3ab",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_44ad2faf-60c4-4ba1-a7d9-4bd89d895866",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_c2cbb737-06b9-4b96-aa0e-edd24e4da7fd",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_080a3a09-0ecc-4424-8f48-079a6cf45817",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_de2d6620-7a64-4bdf-b3a7-3e1cf9ff17ea",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_9df936d9-1564-43ee-8717-4ba49407584c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_d15224c9-5b7e-4e4b-a3fd-e7650970c049",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_ef0b7573-b38c-4f0b-b852-bb9569337dcb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_abfae99a-6325-4ee4-9524-bda38aeadf08",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_fa63c9ff-a393-4c53-91c3-32f206de2120",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_e0d85d5c-3b50-4e7c-b624-17e1eec8d4a2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_2b6a1b11-314a-4a6b-9593-e77ca16530a6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_79cdef91-cd37-4008-9cb5-8be1d9e6293c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_612d2529-e406-4413-922e-7de9dece36bf",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_c345b192-e88b-450e-8207-200ff5b98998",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_476ee58e-5519-4b9b-b061-e70c9bd0a75d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_f5c5f41c-0a6d-4d32-8db9-80fc974cd550",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_26c01bee-36da-4b37-9850-793923af231f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_c4f6a98e-2502-4424-bfd5-08205610d249",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_a53b074f-1b0e-4990-b713-77f6f859d133",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_0b09aecc-2952-4ac6-9596-b8c1e64cc988",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_051c9b0a-40f3-4cfe-b3bd-24cb65728a1a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_ed1ab3d9-daa1-4e7f-9a41-4795d94f82c6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_fb8d4153-1c00-4c5d-8225-c33644da9e0d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_09ddb410-940a-4a9d-9753-8500b5dcf5c3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mistral",
+    "text_id": "aligned_mistral_e2cff642-5f31-4721-a4ae-ba946007b25e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_cf4a1640-7e8e-4654-a2a3-6982c66e9083",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_54f3eb8b-f44e-47fb-bc9a-d66f1894c25c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_287e6597-168f-4dae-82d6-b4c6d2d91100",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.98,
+    "ai_score": 0.020000000000000018,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_838b267b-d40c-4f8a-a459-675c4ec49541",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.99,
+    "ai_score": 0.99,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.99}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_8c49b281-96d3-4b0f-9554-f429a9624da4",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_2f558419-e524-459a-9c16-1aadeb21661e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_5dc7acaa-23a4-43a7-9e65-db83d7184477",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_69616fa2-6c96-46c4-8593-6b215ec724fa",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_a91a5a8a-7377-49be-9a51-b1464c14d244",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_ef062f35-de50-4165-94bf-6a6e924c6d7c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_fd576c7f-0ae7-468d-971b-52eb4ceeffa1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_dbce7a93-9c5d-4699-aa85-f784b27c5c76",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_3955d9b4-6d81-43d0-a542-f9bebf5f5d9b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_61cb7448-b560-4726-958c-0260cd76f555",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 1.0,
+    "ai_score": 0.0,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_ed490b48-057c-4d25-b885-67f52f8eaa58",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_a2485e6c-b493-4151-ac9c-e7f07c44ee3d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_876615f6-d64e-436c-8ed5-d7b1e77fae3c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_9af7411b-c4aa-408a-b04e-5aef386e42f6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_5a8ef632-cbc0-4703-bcf4-f7411796e486",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_63ab4852-e3e8-4915-85ea-2fd977490e6b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_7634f022-358f-4ac0-adc7-765842d3ab6f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_3754b5e7-3e5d-4ff7-b3e7-280e739b7223",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 1.0,
+    "ai_score": 0.0,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_6f2d1aa9-8465-458d-81e7-fed5432f504d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_69ab9788-2161-433e-a23b-3ad09dc02f20",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_0f34e376-b02b-4dd3-ae21-6d7edae387e3",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_bd267d89-36d4-414e-ae22-3cf6c9e36910",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_ca4e4333-9061-49f3-9522-4ee1c10ff5e6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_477d0308-8bed-48f9-8612-a7ab6cd5716c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_7204e4d8-753e-49e1-8607-e0cab6c7d365",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.99,
+    "ai_score": 0.99,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.99}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_b7621754-e769-4610-bfe9-2bd3a367877f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_07d7ea8d-3c01-4e8d-99a9-e2d6f98c6b34",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_d78755bc-d72d-4be6-b1e1-21d4165fb115",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_477ab341-de35-41b8-9451-21210f222a57",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_4225bcef-ced4-4b38-acd9-815b90e6b9a5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_890eb924-4536-4e2e-ab5b-f19afcb902f3",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_00b440f2-f052-46d6-bb20-0ec70307d6f7",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_fde36657-728b-4128-82a6-2a6136ba23d2",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_827cba68-e393-4b11-a7bb-7760690d4516",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_27cc8c20-bdec-42f7-b2ee-fa295971af0f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_2a6d1b68-faf8-4551-a116-23e68dcd41ad",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_544918f6-169f-416e-87bf-b7f6d3ccfc9d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_0195b21c-9730-49f3-8b5f-a51fe3fc948b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_e5d8ec37-54c7-4173-bf92-2dc6d6fd7894",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_f37dd822-d900-4b4b-8e17-a211d8aa9f6a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_d009dbf1-e93b-4e73-a11a-555d4e56fed0",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_be10aa75-7bf3-4358-bba9-896cfc62afdc",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_9f1f49ea-8678-4e23-b666-f1ce3486ff1d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_2df00b6f-d926-4956-8cdc-ab66cf9ce5c6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_0aee90de-08d5-4ea1-a3e3-d2c6b1afc3b4",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_a3aa7185-47d4-4268-a802-53e8c22ec890",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_30e07899-fb07-4c7b-b6ae-69aa1cf9af0c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_45462bb5-3e9c-47bb-ab15-d0ea5de3e5a0",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_9349dc72-921a-46df-864c-d543eebfebdd",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_66511f8f-2029-422e-856e-254dfa935e67",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_ad96a467-00fa-4e2a-a7cf-4664d2c1343c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_9c6f9d19-2ba3-4d93-809a-700b34c6ea80",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_e68455ae-0f82-4aec-9fdb-6c1bd8618d6c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_ce4d0606-b220-455c-a112-d2db097ec018",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_9b28e5e9-54b4-46cc-bc0d-5886b3032f1c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_451015a0-fd07-4732-a0d9-f607440c37b0",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_f6021725-ea8a-4228-af7b-4e7b9728b186",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_a98861d3-1e96-473c-aeb9-22a29de9cf2f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.99,
+    "ai_score": 0.99,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.99}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_d02e608f-108b-41de-b0ad-f00b9e3e209f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_2870d623-fa4e-4f35-9a63-74f7c0e40efc",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_560478f4-dd30-4ae0-b422-cb8e8392e7e1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_0afbb299-d85e-4d81-b81b-4090eeda332e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_d0537358-8593-471c-ac23-fe83133dea29",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 1.0,
+    "ai_score": 1.0,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 1.0}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_29b0027f-1014-4a07-895d-2e68a696b1a4",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_76d3963d-a2b1-47e8-b45d-78be8f800102",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_b1b044da-d2b4-4748-9eea-f62933257918",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_933589ab-d8fd-4e93-b44c-4546e24d9d84",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_6c483290-4123-4f1a-8fda-37aa70ad6a3e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_0201e3c7-a8a7-4d74-9d7a-56aaba3f8fdf",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_e748c80f-aa7b-4ab0-bdd9-e6a138bca108",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_07c3b259-0492-4d00-b1ee-8343880adc7e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_3f8f488d-fcbf-4b22-bb71-e02615a72d14",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.7,
+    "ai_score": 0.30000000000000004,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.7}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_a89c5ffd-13d5-446c-afc0-ff5c0d81999c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_dc8a89f5-f511-45b9-be20-bb04a0033133",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_1b06d3d0-6da7-422c-a4f5-b9fece89219a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.99,
+    "ai_score": 0.99,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.99}",
+    "category": "base_mpt",
+    "text_id": "base_mpt_174656c5-7e3a-406a-9e51-3dc401aab824",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_9b52901d-64ff-4fa2-aa6d-acf99fbc5579",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_74a38fb5-5cc5-4f27-9d9a-b3fa11e1778f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_fc685adc-960f-40b5-b35b-46db1b602152",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_4f55efd6-382e-4d60-9056-6fb5285a22d0",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_2906a15e-f518-46fe-84fd-420b8ce6dc0a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_02298907-b526-4f38-8fa9-ad911bbf06f3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_84d285af-d387-48fe-9501-cc8a01383bcb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_46bdd5c9-2733-4ce4-9b6e-af70e4b2ee7d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_96ca0c34-1161-407f-a9b9-24ae3df92db1",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_d1ed9008-6317-44d0-a547-eb3e1e9bce5f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_0d3ef10c-8c81-4d82-86c4-cc4f27a8c07c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_f0a00baf-0a96-4e03-940d-2a752ece31e5",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_8760ca99-1f9d-4973-9d0c-133fc504093f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_df4c9502-b7b4-4867-8a90-e6a82e62074b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_19618b82-d426-400a-a892-2f5227bb88a2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_c8420529-a9ba-4174-98d3-36caa06315c3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_ea29d801-7ac3-4d62-bdc9-256ee9d4e395",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_a1fba87b-58c9-4210-a411-06b033e9cff8",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_d85e0566-7008-44e0-a1b9-b2d74575fa1e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_fbacc037-0877-4d93-9395-e687edd59e3e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_f97c0fdf-9db5-437c-b0c1-c0f32df18038",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_b192d0ac-8dc3-4843-a0f2-fa3ccaa1ea3e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_daaedfc2-e7c2-4c4e-a4af-b78c65ac5766",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_37119869-3d56-4c48-9126-4c14a820278b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_7e7d89d8-7f19-4f73-942c-5ae5989ee411",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_f503bc02-65ca-41df-9fa5-1ec212c9d535",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_ecdad333-a5b7-447c-b73c-00726773f494",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_751eb74c-e224-48fb-95f6-cfed09f7a756",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_e7adece8-fcc1-46a4-bede-bb5447d0d51c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_73ae7be8-b31e-4110-a4b4-182b0553b32c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_62265832-b080-4bf0-93e3-e9ace4ab97fb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_a31ebdac-dc57-4170-b7ab-676e41ae2544",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_9b87ba49-a1b9-47fe-adb9-0d3907d406a2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_7895771b-9d19-415b-a1aa-d5e2bc2406e2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_7a0a2c37-977a-4fd7-a774-a8a08c80d526",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_94624032-be38-47c2-8ada-8657b204dff2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_759f0746-0838-4a99-a5f8-d35fc3fa01d6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_d72dc999-fd53-4161-a411-0910074c0a25",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_4b77177c-6b0c-4df1-acbb-dacbfb753741",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_d28062aa-931f-4b49-88fc-2f8bb90b5f9a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_33ccf074-9d71-4f6b-85f5-0e26d4fd79e3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_ed950bf7-6ce7-4382-81d6-c0dbcdc2ec9a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_4a2844dd-cdc7-4498-b4cc-4ec0420e49f5",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_be24a74b-0720-43d3-837e-c43f6b99b200",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_5eabab77-3646-4b4e-8394-02509dc9a9b7",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_6ef9204e-8317-4a1c-bd4e-b1b6d6364c1a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_3b6eab83-942c-4c67-8bd8-6d07f67fbd31",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_e9b80c1c-569c-4d50-874a-9cdfed67b708",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_98de4dbe-e1f6-4ef2-9324-87f2ecde985f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_067e3ac4-65f4-403f-9a90-576b7b89f711",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_805712d8-d947-4e1d-8f16-73b832a79990",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_d196e9b4-6cd0-4fd4-9bf2-c147fe89595b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_5aaa624f-1735-4ba7-b386-ab4c7e2cc9a8",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_b5db27cf-dfce-4bf0-b420-a3f3bd2575dc",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_3b70fb55-57d5-4104-9139-03a2a3fe28dc",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_345b481a-832f-4e66-8065-65ca5aff056c",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_5cbfd093-1d47-46f3-a9a6-4ae77f8add37",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_61b621be-cc3a-4e7f-89e2-5f4762331483",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_ef2ae30f-a623-4868-8f5a-47268527f599",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_e2135085-71b8-405e-a5e8-06b115487473",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_cae2bbb3-1430-45eb-a6df-cf5330f769ad",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_792f1f3b-ee81-4f9f-a2d5-dc938d8675ea",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_1f798590-7d22-4477-8e28-c0bd2e665f36",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_e2cd2df2-1624-4015-9c3f-20a763d9da35",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_b3bd5c80-ff06-4baf-84e3-927b93a05d84",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_6e022a4b-fecb-4fd6-855a-522fa99aa225",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_10e7d49b-748b-4b3a-9c16-5549cb44b4b1",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_babfeca6-9ba5-4cf8-aebe-18c8b792003b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_8b9ce482-9499-4c5c-a6c5-e14f52504522",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_6dbfb0d9-37f1-4185-802f-c0c74714e6c3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_74afc008-ce9d-44bb-b234-c34231829d21",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_8d943c90-3279-46ab-9d29-4c910f1977de",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_4bfa698d-fe77-4ea6-9641-b650392b252f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_3608ae1c-c390-4180-abca-0ea4e65ee28f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_2794c0e7-ccf2-4e5b-b090-eff04b961c97",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_c2d32c97-6e41-4fea-8073-b86a8a2734ad",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_4fee8df6-aee1-4c2d-88f4-76a97a0ef6ac",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_9079dc25-6daf-4d7d-aa20-56198fd4781d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_5a149ff0-344d-4633-9ca8-046c7b686e16",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_mpt",
+    "text_id": "aligned_mpt_0942b1f2-6bc3-4a11-835b-2e9b89914d07",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_caea249e-89e0-4b9c-9472-250426f4c96f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_ceec80c4-4f2c-4910-9fd6-5b0ee1fda87a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_17852138-5323-434f-906a-86f06aefd036",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_426f3b9c-5cb0-4f3c-a53a-261e30b2766b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_cfb98192-b48f-49fe-82e5-0538978391ce",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_8553560a-4fc7-4b03-ad39-1a0a3ea329c5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_745f28d5-5ae6-4f28-a941-aa1288eabd29",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_fd348602-628e-4863-8f72-3478e5893c33",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_4afe22cc-e465-4175-a307-376ef32bbfab",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_25971576-2471-4e55-9438-00c1411eed7f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_c99b5556-8a2f-4b86-bab1-a3ddebc8c894",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.85,
+    "ai_score": 0.85,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.85}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_09a7ceb8-0c22-41ff-b8d8-1e1a433728ce",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_6a8ba4a2-1ad2-4e9f-9a75-cbdc8e9ce6c6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_31ad8976-08c3-404b-86c9-8004029544a1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_45a327d9-f8e8-406f-b1f3-d25ae0c900d2",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_1df94d21-99f8-4a5e-904c-155d93c2396c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_0ae435f8-8610-4467-b638-79556cd4b269",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_d4d2be43-c1c1-40b8-aa4b-475837384921",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_7f72d539-5d7b-4f14-a2df-966a6a66a1ed",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_e8b98a64-d672-4523-9c22-7c637e8f2fee",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_7fb22bc9-1d91-4579-a503-acabc51b6e92",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_b0857074-c63d-43e5-9342-e997e213369e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_7237217e-f504-4b1a-9fe3-7041a5fb2bef",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_f9946da5-3929-4b38-a907-ed476b0158d3",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_6cadae8b-e814-447a-8965-a638fc2e8222",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_a409efef-5611-4ce6-ae45-d4016c882e02",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_95d06402-966e-403c-a914-0c6d837dccb2",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.95,
+    "ai_score": 0.050000000000000044,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_6dfab7fe-1361-4839-841a-96b0e4a9477e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_b386941f-3f70-4cec-b869-90cdeedd0752",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_b8e4ed3b-e2fa-4c50-b2af-23c5b3cb4b6c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_57331e38-af25-4cc1-aa8a-a2780223f8de",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_fab0b2f0-6221-4146-b308-11ae060c156d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_752dd879-c317-40df-a9ec-e36e07af9070",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_a5e537ea-3f67-4141-9f8d-198987e65e34",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_6578709b-0864-4f1e-830d-963aab958924",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_8b9d53ce-f099-4394-a996-dc37bbb3cc88",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_bc0c1808-be2f-44e7-8aec-1a595e226c18",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_7a42982e-c183-4c9c-872b-713c5ad74a02",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_e224b2e0-b0f8-4b77-9eb0-e64013613dc3",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_c1617ef2-17b0-4fd8-af31-322e092d2640",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_32580291-8812-4cc9-833c-a04a412f4ee6",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_613db671-64f5-4e0d-9b6c-36c22d525d74",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.87,
+    "ai_score": 0.87,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.87}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_b2a219e2-53cb-4996-a78a-08493a403eda",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_24cbd2db-66ff-4fce-804c-b6d93ff14f33",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_ef19d607-2ca9-48da-8405-6465d607b8b1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_f476e49e-9943-40ba-8fea-03cb0579ce1d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_a25f2e7d-8724-4569-8183-4bdca02cf89d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_70bb70fb-3244-409f-b1b6-517104d33d7f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_2403cd62-3f5d-4c9f-933d-16390abfcd38",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_6bb7dba6-ea8a-4c0d-885c-79eb0d39db90",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_eefaa971-d2ce-4082-8d54-1c4da6860b2e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_f25bb086-ea4d-42ed-8d60-51d87d839b9e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_33275d4c-104f-45ad-b4ab-cbfc6413edd1",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_d25d3d35-fd93-4159-a732-bf59325e5e8e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.92,
+    "ai_score": 0.07999999999999996,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_b877024a-970a-40f6-a122-c8e64aaec61a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_c20a0656-9833-4859-b318-61eadf125716",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_3aa448f7-ec78-4935-aafc-6421fba0d2da",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_725a1060-efe0-495a-8672-a5b01214c179",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_c72ae2c8-7738-4301-9e06-3349eaefc76a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_d755a60c-0141-4ca8-8f9a-75a46d060890",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_c5b36980-84e3-4a0a-97aa-0637aff7d87e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_5fd7a3d1-a9cf-4055-b95f-ab8a3ce6bac9",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_13f63797-3591-4880-a288-f7e23c9d262d",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_91239d5d-bb53-4364-a576-08ecbdab105a",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_7854bd17-d054-46f9-b55b-55c26f393a5c",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_bf3e3ed7-e969-41e0-97ff-5942e7d29c15",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_5e5105d4-f802-40cf-bc92-40bdcd4675fd",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_50203423-1ea4-45b3-9367-1dec7a39c115",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_512db4c0-795b-4e22-8907-37227063d199",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_dd550fa9-c9c4-4228-9b8f-f9738eedf64f",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_22c21825-5b56-4cd0-a19e-3c5fe8883992",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_da2214c3-c3ed-498d-afbe-07cdfba71a6b",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_e176c865-da7d-4dd7-ad0b-551893a39aad",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_fc235692-7fbe-47a7-9249-bf2d0b3e1857",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_8c3c4207-83a0-4967-9c26-7146fa36473e",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_df73633b-dca4-4bcd-80b4-8bbe003484d0",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_076fa8d7-156a-4ab9-af3a-ed85c81961a5",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_f3072851-bbb7-41a4-a92b-5c113a15ef52",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.85,
+    "ai_score": 0.85,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.85}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_0f06c4b7-8abe-4467-8d81-393186c7f5a4",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "base_cohere",
+    "text_id": "base_cohere_eca2d05e-6c63-44f5-b6e0-5f00d1664467",
+    "true_label": "ai",
+    "alignment": "base"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_a63dc89d-1f53-4e4a-89db-3c16a16b0dd8",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_8321edd3-bee5-435f-8a2d-77e77c07c90d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_38217254-4019-4747-aac1-51882edcd7a3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_2dea9059-e97c-4cb6-bf83-0a0b2e856f08",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_a838e290-b6fe-4279-a8aa-351627e14406",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_cc7a6973-1c7e-457e-8c29-b11619d1a403",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_3077c023-bedc-47b5-9769-af20dca3350b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_17a6228f-4319-484b-a6ce-9b49f8b76703",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_5e9f5757-2ab2-48ce-b154-f827fa41e5e1",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_35f068d3-ea88-40ed-a04a-902e7c55ce1d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_42b7af82-f4a5-4498-b54c-5f57c1edb27d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_6200a5d1-7fc7-4057-a475-ac770a4ae755",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_2960210e-0015-4056-8906-1d577fc5e7a6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_3652bf04-6953-4191-a5c5-20b0f9c9ec9d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_ce0d51d5-290a-498e-afd4-48a4d3c49a9b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_66d0bf20-985d-4875-a12b-3e894db1838b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.98,
+    "ai_score": 0.98,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.98}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_f99c6e30-5e26-420e-994f-6da39073137e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_93de5db2-3bfa-4bb9-bf82-ffb2270aa1d5",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_67ba03b9-6f51-47a4-80ea-b38205cc0f15",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_9715b49c-8aed-4966-ade9-be0d85080fdb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_9d03506c-50ce-4813-a969-eb7ba378177a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_c2ea1885-e2af-4ce5-b885-78889525e89e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_8670fd30-6fac-4be6-a76a-add47a1f4ab2",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_f3686b3e-5904-4652-94d1-0bfea75bf36b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_4f8f2c12-eb9e-41bb-aa07-c6fc33212278",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_77d29911-df71-439a-bcd6-98b288331dd8",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_b57eabec-8670-4c80-964f-d2cb557d30b3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_d7807d09-56dd-44a6-814c-e987b7553ec0",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_54e983df-ffa4-4522-8202-fdeb92bc87a4",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_7331e442-054e-41d0-bd46-8339a655c63e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_1cfbd864-19e1-43eb-b343-6d14a3421af3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_522f405a-57eb-4a5f-8aa0-fd116214c293",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_93246114-fed1-46df-b6db-bf46667909c7",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_ab34c62e-87f4-4ceb-8a7c-53f44ea16694",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_47dc3005-d06f-4dcb-9e3d-eaaf1f66742a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_77779979-8bf3-4d37-ab73-0c15e2aa19b4",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_57d4e99f-5012-43c3-b435-20602eab6e46",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_d12dfe78-b0c9-4b1c-b02e-ce3cdf520c11",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_ce4e1b94-2440-4e62-87c9-2951034119a9",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_91955594-9c90-4936-bd54-422180cb288a",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_4aecb35c-f78d-4cb3-89ed-1762b3706108",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_772eba16-ae7b-4b9b-9543-9ba2171e4c42",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_f0d4512f-3299-4cd5-8f52-6af8d78e1420",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_5ce6f321-857f-425b-867f-0ccf2e3069e6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_2e0e0e74-49c3-4077-91c6-47a956d25254",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_df955419-fc46-4450-8a9f-d8a75543268f",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_c72fc501-3fd2-48d0-863c-d7fbe4358c44",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "human",
+    "confidence": 0.85,
+    "ai_score": 0.15000000000000002,
+    "raw_response": "{\"classification\": \"human\", \"confidence\": 0.85}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_a0273cc8-4ee4-484b-a324-0ad0dae2a6b6",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_4059de2c-64fb-4356-8ab2-4b58655dcdf3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_7db142ba-83dc-48c6-ad9d-edf7bf2653fe",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_9715188a-82f9-40cb-828c-deb9c24a01e9",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_fbb9e376-a10e-403d-a895-f7bc61db94d7",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_ba120082-4e20-4073-9b96-cdee9a7d2149",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_270ca014-3e5d-46f5-af36-38ddaf5a745b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_12f3b2ef-b6c6-495f-a888-73a7f63541be",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_e12990d0-8d05-4824-af22-a7f236178487",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_35bf3c91-26b5-473c-8104-bed5dd08d728",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_3f4a899b-9eb9-4fb7-96dc-0a1e51350ed0",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_6f062901-6c87-4826-bbc0-76f477a632fd",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_c964afc6-bf02-416a-b3a8-6cdd497e5abb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_93989bae-568d-4794-a9b0-64ed1df02424",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_ba680a22-a255-4687-95b9-907f14bb743b",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_35431867-6c57-4291-a75a-8dbb59a22573",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_355861d1-9a32-4f8c-afa2-8e703a21982e",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_a28f1bfa-aa45-4aa1-9050-5b8373ff93e0",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_3a257447-8567-4979-9fe3-83dcf2ab31ce",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_cd2f5324-819d-4f9d-9ef5-f7a973073237",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_157e1064-de33-40de-ae6c-9edfd58561d3",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_96fb6c56-e889-4872-bcdc-03be086e5dbc",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_afb3de4b-2ba4-4212-a2fd-27f5a92ec5e9",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_f0c3c7f8-4a82-4ff5-98b5-012a8cb8bd58",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_5630071f-db31-492f-a4b5-dc976cca907d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_ce1210a5-d512-41f5-9fcd-cc2759803471",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_9eb5391c-4956-4fac-b26d-d7d94865d5ba",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_9ee0da35-f4f0-4577-a79b-a6ff507282bd",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.97,
+    "ai_score": 0.97,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.97}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_11476b56-a5e2-4ee9-bd05-97a96768ab9d",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_6f81540f-a8ab-4fc1-bece-3e3c1818b022",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.93,
+    "ai_score": 0.93,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.93}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_a8602a64-5307-4073-846d-a7e89e3c1418",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.95,
+    "ai_score": 0.95,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.95}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_965bd3e3-19bb-4b2d-a2f7-2941392268cb",
+    "true_label": "ai",
+    "alignment": "aligned"
+  },
+  {
+    "classification": "ai",
+    "confidence": 0.92,
+    "ai_score": 0.92,
+    "raw_response": "{\"classification\": \"ai\", \"confidence\": 0.92}",
+    "category": "aligned_cohere",
+    "text_id": "aligned_cohere_8ecb41e7-d2bd-4858-9309-e6761beed055",
+    "true_label": "ai",
+    "alignment": "aligned"
+  }
+]

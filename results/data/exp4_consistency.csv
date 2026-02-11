@@ -1,0 +1,8 @@
+experiment,measure,effect_sizes,consistent,families_agreeing
+Exp1: Distributional,type_token_ratio,"[0.5661766732999042, 0.6369901734679049, -0.2931965011140015]",False,2
+Exp1: Distributional,distinct_2gram,"[0.9155052955216222, 1.1268856000357108, -0.2841106203231467]",False,2
+Exp1: Distributional,distinct_3gram,"[1.015809463125933, 1.2109981072735496, -0.2556399424978052]",False,2
+Exp2: Statistical Detection,AUROC(mean_logprob),"[0.3171760000000001, 0.2063759999999999, 0.09206000000000003]",True,3
+Exp2: Statistical Detection,AUROC(mean_log_rank),"[0.34564799999999996, 0.23406000000000005, 0.10861599999999993]",True,3
+Exp2: Statistical Detection,AUROC(mean_entropy),"[0.08821599999999996, -0.014140000000000041, 0.11018399999999984]",False,2
+Exp3: LLM Detection,TPR delta,"[0.0649350649350649, 0.15, 0.0124999999999999]",True,3

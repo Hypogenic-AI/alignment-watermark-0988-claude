@@ -1,0 +1,90 @@
+\section{Methodology}
+\label{sec:methodology}
+
+We test the alignment watermark hypothesis using three complementary detection paradigms applied to matched base/aligned model pairs.
+Each paradigm addresses a different aspect of the hypothesis: distributional feature analysis measures \emph{how} alignment changes text, zero-shot statistical detection tests \emph{whether} these changes enable detection, and LLM-as-detector tests whether aligned models are ``detectable by other AIs.''
+
+\subsection{Data}
+\label{sec:data}
+
+We use the \raid benchmark~\citep{dugan2024raid}, the largest publicly available AI text detection dataset.
+From \raid we extract matched base/aligned pairs from three model families, along with a human baseline (\tabref{tab:data}).
+We restrict to domain \texttt{abstracts} (scientific abstracts) and attack \texttt{none} (clean, unmodified generations) to avoid confounding adversarial modifications with alignment signals.
+Each model variant contributes exactly 500 texts (250 greedy decoding + 250 sampling).
+
+\begin{table}[t]
+    \centering
+    \begin{tabular}{@{}llc@{}}
+        \toprule
+        \textbf{Base Model} & \textbf{Aligned Variant} & \textbf{Texts} \\
+        \midrule
+        \mistral & \mistralchat & 500 each \\
+        \mpt & \mptchat & 500 each \\
+        \cohere & \coherechat & 500 each \\
+        \midrule
+        Human & --- & 500 \\
+        \bottomrule
+    \end{tabular}
+    \caption{Dataset composition. All texts are scientific abstracts from the \raid benchmark. Each model variant contributes 500 clean (unattacked) texts.}
+    \label{tab:data}
+\end{table}
+
+\subsection{Experiment 1: Distributional Feature Analysis}
+\label{sec:exp1}
+
+We compute eight text-level features for each sample to quantify how alignment changes the distributional properties of generated text:
+
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item \textbf{Type-token ratio} (TTR): vocabulary richness, defined as $|\mathit{types}| / |\mathit{tokens}|$.
+    \item \textbf{Distinct $n$-gram ratios} ($n=1,2,3$): the fraction of unique $n$-grams, measuring lexical diversity.
+    \item \textbf{Mean and std.\ sentence length}: structural regularity of the text.
+    \item \textbf{Mean word length}: a proxy for vocabulary complexity.
+    \item \textbf{Hapax legomena ratio}: proportion of words appearing exactly once.
+    \item \textbf{Token count}: overall text length.
+\end{itemize}
+
+For each feature, we compare base vs.\ aligned distributions within each model family using Mann-Whitney $U$ tests with Bonferroni correction across features ($\alpha = 0.05/8$).
+We report Cohen's $d$ effect sizes to quantify the practical magnitude of each shift.
+
+\subsection{Experiment 2: Zero-Shot Statistical Detection}
+\label{sec:exp2}
+
+We test whether the distributional shifts identified in Experiment~1 translate to actual detectability differences using established zero-shot detection signals.
+
+\para{Reference model.}
+We use \gptdet (774M parameters) to compute per-token log-probabilities for each text.
+GPT-2 Large is the standard reference model in the detection literature~\citep{mitchell2023detectgpt,bao2024fastdetectgpt} and provides a model-agnostic detection signal.
+
+\para{Detection signals.}
+From the per-token log-probabilities, we extract three signals:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item \textbf{Mean log-probability}: higher values indicate text more expected by the reference model.
+    \item \textbf{Mean log-rank}: lower values indicate tokens are more highly ranked by the reference model.
+    \item \textbf{Mean entropy}: lower values indicate the reference model is more certain about the next token.
+\end{itemize}
+
+\para{Evaluation.}
+For each AI source (base or aligned) and each signal, we compute AUROC for the binary task of distinguishing human text from that AI source.
+We estimate 95\% bootstrap confidence intervals with 1,000 iterations.
+The key comparison is AUROC(human vs.\ aligned) versus AUROC(human vs.\ base) for each family.
+
+\subsection{Experiment 3: LLM-as-Detector}
+\label{sec:exp3}
+
+We test the specific claim that aligned models are ``detectable by other AIs'' using \gptfour as a zero-shot classifier.
+
+\para{Setup.}
+We sample 80 texts from each of seven categories (human, base-Mistral, aligned-Mistral, base-MPT, aligned-MPT, base-Cohere, aligned-Cohere), yielding 560 texts total.
+Each text is classified independently using a zero-shot prompt that instructs \gptfour to analyze writing style, vocabulary diversity, naturalness, and formulaic patterns, and return a binary label (human or AI) with a confidence score in $[0,1]$.
+Temperature is set to 0 for deterministic classification.
+
+\para{Evaluation.}
+We compute true positive rate (TPR, the rate at which AI text is correctly classified as AI), true negative rate (TNR, the rate at which human text is correctly classified as human), and AUROC using the confidence scores.
+We compare base vs.\ aligned TPR within each family using two-proportion $z$-tests.
+
+\subsection{Experiment 4: Cross-Family Consistency}
+\label{sec:exp4}
+
+We aggregate results across families and detection methods.
+For each of the 12 family$\times$metric comparisons (3 families $\times$ 3 statistical signals + 3 families $\times$ 1 LLM detector), we record whether aligned AUROC/TPR exceeds base AUROC/TPR.
+We use a binomial sign test to assess whether the fraction of positive comparisons significantly exceeds the null expectation of 50\%.

@@ -1,0 +1,7 @@
+category,alignment,auroc,n_ai,n_human
+aligned_cohere,aligned,0.7652343750000001,80,80
+aligned_mistral,aligned,0.76921875,80,80
+aligned_mpt,aligned,0.80453125,80,80
+base_cohere,base,0.7150781249999998,80,80
+base_mistral,base,0.792288961038961,77,80
+base_mpt,base,0.795703125,80,80

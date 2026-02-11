@@ -1,0 +1,8 @@
+AI-generated text detection is often framed as an arms race between generators and detectors.
+We argue for a different view: alignment training---the process that makes large language models (LLMs) helpful, harmless, and honest---simultaneously creates a robust, implicit watermark that makes aligned outputs inherently more detectable than base model outputs.
+We test this hypothesis across three model families (Mistral, MPT, Cohere) using three complementary detection paradigms: distributional feature analysis, zero-shot statistical detection, and LLM-as-detector.
+Across 12 independent comparisons, aligned models are more detectable than their base counterparts in 11 cases (sign test $p=0.006$).
+The strongest effect appears in zero-shot statistical detection, where alignment increases AUROC by 10--35 percentage points; base models like \mistral and \mpt are near-random (AUROC $\approx 0.50$), while their aligned variants reach AUROC 0.74--0.88.
+An LLM detector (\gptfour) achieves 97.5--100\% true positive rates on aligned text versus 85--96.3\% on base text.
+We trace the mechanism to alignment's regularizing effect: aligned models produce text with lower sentence-length variability (Cohen's $d = -0.45$ to $-0.66$) and higher token-level predictability.
+These findings reframe the detection problem: alignment \emph{is} the watermark, and making AI useful guarantees its detectability.

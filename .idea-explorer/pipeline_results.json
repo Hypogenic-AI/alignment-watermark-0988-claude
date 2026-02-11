@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/alignment-watermark-0988-claude/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/alignment-watermark-0988-claude/literature_review.md",
+        "resources_catalog": "/workspaces/alignment-watermark-0988-claude/resources.md",
+        "papers_dir": "/workspaces/alignment-watermark-0988-claude/papers",
+        "datasets_dir": "/workspaces/alignment-watermark-0988-claude/datasets",
+        "code_dir": "/workspaces/alignment-watermark-0988-claude/code"
+      },
+      "log_file": "/workspaces/alignment-watermark-0988-claude/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/alignment-watermark-0988-claude/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 2120.232534646988
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 1145.1222586631775,
+      "log_file": "/workspaces/alignment-watermark-0988-claude/logs/execution_claude.log",
+      "transcript_file": "/workspaces/alignment-watermark-0988-claude/logs/execution_claude_transcript.jsonl"
+    }
+  },
+  "work_dir": "/workspaces/alignment-watermark-0988-claude"
+}

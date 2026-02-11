@@ -1,0 +1,37 @@
+\section{Related Work}
+\label{sec:related_work}
+
+\para{AI-generated text detection.}
+Detection methods fall into three categories: trained classifiers, zero-shot statistical methods, and explicit watermarking.
+Trained classifiers fine-tune language models on labeled human/machine text~\citep{he2023mgtbench,li2024mage}.
+Zero-shot methods exploit statistical signatures of machine text without training data.
+\detectgpt~\citep{mitchell2023detectgpt} uses probability curvature: machine text occupies regions of negative curvature in the model's log-probability surface, so random perturbations consistently decrease its log-probability.
+\fastdetectgpt~\citep{bao2024fastdetectgpt} replaces perturbation-based curvature estimation with conditional probability curvature, achieving similar accuracy 340$\times$ faster.
+Simpler baselines---thresholding on mean log-probability, log-rank, or entropy---remain competitive in many settings~\citep{gehrmann2019gltr}.
+Explicit watermarking modifies the generation process to embed a detectable signal~\citep{kirchenbauer2023watermark,dathathri2024synthid}.
+Our work is orthogonal to all three categories: we study a signal that arises naturally from alignment, without any modification to the generation process.
+
+\para{Effects of alignment on LLM outputs.}
+Alignment training---spanning supervised fine-tuning (\sft), reinforcement learning from human feedback (\rlhf), and direct preference optimization (\dpo)---changes model outputs in well-documented ways.
+\citet{kirk2024rlhf} provide the first rigorous demonstration that RLHF causes \emph{mode collapse}: per-input lexical diversity drops by 75--90\%, and across-input outputs converge to a consistent stylistic mode.
+The standard KL penalty fails to recover this diversity.
+\citet{ouyang2022instructgpt} show that instruction tuning with RLHF dramatically changes output characteristics including format compliance and safety properties.
+These distributional shifts are precisely what our hypothesis predicts will create a detectable watermark.
+
+\para{Alignment and detectability.}
+The closest work to ours is \citet{xu2025rlhf}, who measure detectability at three alignment stages (base, SFT, PPO) for Llama-7B.
+They find that \fastdetectgpt AUROC increases monotonically from 0.68 (base) to 0.91 (PPO) for instruction-following text, with a concurrent 57\% reduction in distinct n-gram scores.
+\citet{lee2024remodetect} show that reward models---trained during RLHF---achieve 95--99\% AUROC when used as detectors for aligned model outputs, but only 60--75\% for base models, suggesting the alignment signal is directly encoded in the reward model's learned preferences.
+Our work extends these findings in three ways: we test across three model families (not one), we use three complementary detection paradigms (not one), and we frame the result as a general principle rather than an empirical observation about a specific model.
+
+\para{Theoretical foundations.}
+\citet{chakraborty2023possibilities} prove that AI text detection is possible if and only if the total variation distance between the machine and human distributions is non-zero.
+For any positive TV distance $\delta$, multi-sample detection AUROC approaches 1.0 exponentially with sample count $n$.
+Our hypothesis connects directly to this result: alignment training \emph{guarantees} a non-zero TV distance by design, because its purpose is to shift the model's output distribution toward human preferences and away from the data distribution.
+A perfect base model ($\mathrm{TV} = 0$) would be undetectable but also unaligned; alignment ensures $\mathrm{TV} > 0$ and thus ensures detectability.
+
+\para{Benchmarks.}
+The \raid benchmark~\citep{dugan2024raid} provides 6.2M+ generations across 11 LLMs, 8 domains, and 11 adversarial attacks.
+Critically for our study, it includes matched base/chat pairs for three model families: Mistral, MPT, and Cohere.
+Other benchmarks include MGTBench~\citep{he2023mgtbench} with 13 detection methods and MAGE~\citep{li2024mage} with 27 generators.
+We use \raid because its base/chat pair design directly enables our base-vs.-aligned comparison.

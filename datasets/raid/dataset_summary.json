@@ -1,0 +1,50 @@
+{
+  "total_scanned": 271110,
+  "total_collected": 6000,
+  "all_models_in_dataset": {
+    "human": 19426,
+    "llama-chat": 42384,
+    "mpt": 38852,
+    "mpt-chat": 38852,
+    "gpt2": 42384,
+    "mistral": 42384,
+    "mistral-chat": 42384,
+    "gpt3": 986,
+    "cohere": 986,
+    "chatgpt": 986,
+    "gpt4": 986,
+    "cohere-chat": 500
+  },
+  "all_domains_in_dataset": {
+    "abstracts": 271110
+  },
+  "collected_per_model": {
+    "human": 500,
+    "llama-chat": 500,
+    "mpt": 500,
+    "mpt-chat": 500,
+    "gpt2": 500,
+    "mistral": 500,
+    "mistral-chat": 500,
+    "gpt3": 500,
+    "cohere": 500,
+    "chatgpt": 500,
+    "gpt4": 500,
+    "cohere-chat": 500
+  },
+  "base_chat_pairs": {
+    "mistral / mistral-chat": {
+      "base": 500,
+      "chat": 500
+    },
+    "mpt / mpt-chat": {
+      "base": 500,
+      "chat": 500
+    },
+    "cohere / cohere-chat": {
+      "base": 500,
+      "chat": 500
+    }
+  },
+  "filter": "attack='none' (clean, non-adversarial generations only)"
+}

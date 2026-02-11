@@ -1,0 +1,37 @@
+\section{Introduction}
+\label{sec:introduction}
+
+Can we reliably detect AI-generated text? This question has driven a growing body of research on watermarking~\citep{kirchenbauer2023watermark,dathathri2024synthid}, statistical detection~\citep{mitchell2023detectgpt,bao2024fastdetectgpt}, and trained classifiers~\citep{he2023mgtbench}.
+Yet a more fundamental question has received less attention: \emph{why} is AI text detectable in the first place?
+
+We propose a simple answer. A language model trained only to match the data distribution---a base model---approximates human text and should be difficult to detect. The moment we align that model to be helpful, harmless, and honest, we push its output distribution away from the human distribution. This distributional shift is not an accidental byproduct; it is the \emph{purpose} of alignment. And it creates an inherent, implicit watermark: aligned models produce text that is systematically different from human text in ways that serve human preferences but simultaneously enable detection.
+
+{\bf Why does this matter?}
+If alignment is the watermark, then detection of aligned AI text is not a temporary arms race that better generators will eventually win.
+It is a fundamental consequence of making AI useful.
+This insight has immediate implications for AI policy (explicit watermarking may be redundant for aligned models), for the detection community (understanding \emph{why} detection works is more valuable than building incrementally better detectors), and for AI safety (the detectability of aligned models provides a natural accountability mechanism).
+
+{\bf What is the gap in prior work?}
+Individual studies have shown that RLHF increases detectability~\citep{xu2025rlhf}, that alignment collapses output diversity~\citep{kirk2024rlhf}, and that reward models can serve as detectors~\citep{lee2024remodetect}. \citet{mitchell2023detectgpt} noted that LLMs ``watermark themselves implicitly,'' and \citet{chakraborty2023possibilities} proved that detection is theoretically possible whenever the machine and human distributions differ.
+However, no prior work has systematically tested the thesis that alignment itself constitutes an implicit watermark across multiple model families and detection paradigms.
+
+{\bf Our approach.}
+We conduct a multi-method empirical study using the \raid benchmark~\citep{dugan2024raid}, which provides matched base/aligned model pairs from three families: Mistral, MPT, and Cohere.
+We apply three complementary detection paradigms:
+(1)~distributional feature analysis to measure \emph{how} alignment changes text properties;
+(2)~zero-shot statistical detection to test \emph{whether} these changes enable detection; and
+(3)~an LLM-as-detector approach to test whether aligned models are detectable ``by other AIs.''
+
+{\bf What do we find?}
+Aligned models are more detectable than base models in 11 of 12 comparisons across three families and four detection methods (sign test $p=0.006$).
+Zero-shot statistical detection shows the largest effect: alignment increases AUROC by 10--35 percentage points.
+Base \mistral and \mpt are statistically indistinguishable from human text (AUROC $\approx 0.50$), while their aligned variants reach AUROC 0.74--0.88.
+\gptfour as a detector achieves 97.5--100\% true positive rates on aligned text versus 85--96.3\% on base text.
+The mechanism is consistent: alignment reduces sentence-length variability (Cohen's $d=-0.45$ to $-0.66$) and increases token-level predictability across all three families.
+
+In summary, our main contributions are:
+\begin{itemize}[leftmargin=*,itemsep=0pt,topsep=0pt]
+    \item We formalize and empirically test the hypothesis that alignment training creates an implicit watermark, providing the first systematic multi-family, multi-method study of this phenomenon.
+    \item We demonstrate that alignment increases AUROC by 10--35 percentage points for zero-shot statistical detection and pushes LLM-based detection to near-perfect rates (97.5--100\%), across three model families.
+    \item We identify the mechanism behind the alignment watermark---reduced structural variability and increased token predictability---and show it generalizes across model architectures (11/12 comparisons, $p=0.006$).
+\end{itemize}

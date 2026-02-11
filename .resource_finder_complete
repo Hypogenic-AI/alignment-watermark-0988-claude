@@ -1,0 +1,20 @@
+Resource gathering complete.
+
+Project: Alignment is the Watermark
+Date: 2026-02-10
+
+Summary:
+- 26 papers downloaded and deep-read (papers/)
+- 1 primary dataset downloaded with base/chat pairs (datasets/raid/)
+- 6 code repositories cloned (code/)
+- Literature review synthesized (literature_review.md)
+- Resources catalog created (resources.md)
+
+Key findings from literature review:
+1. RLHF alignment increases detectability: AUROC improves from 0.68 to 0.91 (Xu & Zubiaga 2025)
+2. RLHF collapses output diversity by 57-90% (Kirk et al. 2024)
+3. Reward models detect aligned text at 95-99% AUROC vs. 60-75% for base (ReMoDetect)
+4. Detection is theoretically possible for any non-zero distributional shift (Chakraborty et al. 2023)
+5. DetectGPT authors note: "LLMs watermark themselves implicitly" (Mitchell et al. 2023)
+
+The evidence strongly supports the hypothesis that alignment is the watermark.

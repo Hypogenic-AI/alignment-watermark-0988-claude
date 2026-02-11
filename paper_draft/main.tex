@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage[final]{neurips_2025}
+
+% Standard packages
+\usepackage{times}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[hidelinks]{hyperref}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{amsmath,amsfonts}
+\usepackage{enumitem}
+\usepackage{multirow}
+
+% Import command files
+\input{commands/math}
+\input{commands/general}
+\input{commands/macros}
+
+% Spacing configuration
+\captionsetup[subfigure]{aboveskip=4pt,belowskip=4pt}
+\captionsetup[table]{aboveskip=4pt,belowskip=4pt}
+\captionsetup[figure]{aboveskip=4pt,belowskip=4pt}
+
+\title{Alignment is the Watermark: How Making LLMs Helpful Makes Them Detectable}
+
+\author{
+  Anonymous Author(s)
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\input{sections/introduction}
+\input{sections/related_work}
+\input{sections/methodology}
+\input{sections/results}
+\input{sections/discussion}
+\input{sections/conclusion}
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\clearpage
+\appendix
+\input{appendix/reproducibility}
+
+\end{document}

@@ -1,0 +1,40 @@
+\section{Reproducibility}
+\label{sec:reproducibility}
+
+\para{Data.}
+We use the \raid benchmark~\citep{dugan2024raid}, publicly available on HuggingFace (\texttt{liamdugan/raid}).
+We extract 6,000 clean samples (500 per model variant $\times$ 6 AI models + 500 human texts) from the scientific abstracts domain with no adversarial attacks applied.
+
+\para{Computational resources.}
+Experiments were run on a machine with 4$\times$ NVIDIA RTX A6000 GPUs (48GB each).
+Experiment 2 (zero-shot statistical detection) used a single GPU for \gptdet inference.
+Experiment 3 (LLM-as-detector) used the OpenAI API for \gptfour classification (560 API calls, $\sim$\$2 total cost).
+Total execution time was approximately 15 minutes.
+
+\para{Software.}
+Python 3.12.8, PyTorch 2.10.0, Transformers 5.1.0, scikit-learn 1.8.0, SciPy 1.17.0, OpenAI API 2.20.0.
+Random seed was fixed at 42 for all experiments.
+
+\para{Hyperparameters.}
+\Tabref{tab:hyperparams} lists all hyperparameters.
+No hyperparameter tuning was performed; all values were set before running experiments.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{@{}llp{5.5cm}@{}}
+        \toprule
+        \textbf{Parameter} & \textbf{Value} & \textbf{Rationale} \\
+        \midrule
+        Random seed & 42 & Reproducibility \\
+        Max tokens (Exp.\ 2) & 512 & Balance coverage vs.\ speed \\
+        Reference model (Exp.\ 2) & \gptdet & Standard detection reference \\
+        LLM detector (Exp.\ 3) & \gptfour & State-of-the-art reasoning model \\
+        Samples per category (Exp.\ 3) & 80 & Balance cost vs.\ statistical power \\
+        Temperature (Exp.\ 3) & 0.0 & Deterministic classification \\
+        Bootstrap iterations & 1,000 & Confidence interval estimation \\
+        Significance level & $\alpha = 0.05$ & Bonferroni-corrected where applicable \\
+        \bottomrule
+    \end{tabular}
+    \caption{Hyperparameters used across all experiments.}
+    \label{tab:hyperparams}
+\end{table}

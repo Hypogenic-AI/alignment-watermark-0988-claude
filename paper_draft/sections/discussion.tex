@@ -1,0 +1,79 @@
+\section{Discussion}
+\label{sec:discussion}
+
+\subsection{The Mechanism: Structural Regularity}
+\label{sec:mechanism}
+
+Our results trace the alignment watermark to a specific mechanism: alignment produces text with lower structural variability.
+Sentence-length standard deviation decreases consistently across all three families (Cohen's $d = -0.45$ to $-0.66$), and token-level predictability increases (log-probability AUROC jumps by 9--32 percentage points).
+This ``smoothing'' effect---well-structured, predictable prose---is precisely what makes aligned models helpful to users and simultaneously what makes them detectable.
+
+The lexical diversity results provide a useful nuance.
+Contrary to \citet{kirk2024rlhf}, who found universal diversity collapse under RLHF, we observe that alignment \emph{increases} distinct $n$-gram ratios for Mistral and MPT but \emph{decreases} them for Cohere.
+This suggests that vocabulary narrowing is not the universal signature of alignment; structural regularity is.
+The alignment watermark manifests primarily in \emph{how} text is organized (sentence structure, predictability), not necessarily in \emph{which words} are used.
+
+\subsection{Comparison to Prior Work}
+\label{sec:comparison}
+
+Our findings are consistent with and extend the prior literature (\tabref{tab:comparison}).
+The AUROC improvements we observe (+0.09 to +0.35) span the range reported by \citet{xu2025rlhf} (+0.23 for \fastdetectgpt on Llama).
+Our sentence-length variability reduction ($d = -0.45$ to $-0.66$) aligns with the diversity collapse documented by \citet{kirk2024rlhf}.
+The key extension is demonstrating that these effects hold across three model families, not just one.
+
+\begin{table}[t]
+    \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tabular}{@{}lll@{}}
+        \toprule
+        \textbf{Finding} & \textbf{Our result} & \textbf{Prior work} \\
+        \midrule
+        AUROC base$\to$aligned & +0.09 to +0.35 & +0.23 \citep{xu2025rlhf} \\
+        Structural regularity & $d = -0.45$ to $-0.66$ & 75--90\% diversity reduction \citep{kirk2024rlhf} \\
+        Reward model detection & N/A & 95--99\% AUROC \citep{lee2024remodetect} \\
+        Cross-family generalization & 3 families consistent & First systematic demonstration \\
+        \bottomrule
+    \end{tabular}
+    }
+    \caption{Comparison to prior work. Our results extend single-family findings to a cross-family setting.}
+    \label{tab:comparison}
+\end{table}
+
+\subsection{Why Cohere Differs}
+\label{sec:cohere}
+
+\cohere base model is substantially more detectable than Mistral or MPT base models (AUROC 0.84--0.86 vs.\ $\sim$0.50).
+This may reflect that Cohere's ``base'' model already incorporates some instruction tuning, or that its pretraining data distribution diverges from human scientific abstracts.
+The alignment watermark $\Delta$ for Cohere is correspondingly smaller (+0.09 to +0.11 AUROC) but still positive.
+This observation suggests that the watermark strength depends on how far the base model already is from the ``aligned distribution'': models that start closer to alignment show smaller marginal detectability gains.
+
+\subsection{The GPT-4.1 False Positive Problem}
+\label{sec:false_positives}
+
+\gptfour misclassifies 43.8\% of human scientific abstracts as AI-generated.
+This is consistent with observations that modern scientific writing is increasingly formulaic~\citep{guo2023hc3}, overlapping with AI text patterns.
+The high false positive rate means that \gptfour's strong TPR on aligned text does not translate to reliable deployment as a standalone detector.
+Rather, its differential performance between base and aligned text confirms the existence of the alignment watermark signal.
+
+\subsection{Limitations}
+\label{sec:limitations}
+
+\para{Single domain.}
+All texts are scientific abstracts.
+Results may differ for creative writing, conversation, or code.
+\citet{xu2025rlhf} found reversed effects on code-mixed text (StackExchange), suggesting domain-specific interactions.
+
+\para{Limited model families.}
+Three families (Mistral, MPT, Cohere) provide convergent evidence, but testing on additional families (Llama, GPT, Gemma) would strengthen generalizability claims.
+
+\para{Alignment method not controlled.}
+We compare base vs.\ aligned outputs but cannot isolate contributions of SFT, RLHF, or DPO, as the \raid dataset does not provide intermediate alignment stages.
+\citet{xu2025rlhf} show that RLHF contributes the largest detectability increase, but SFT also shifts the distribution measurably.
+
+\para{Reference model.}
+Our zero-shot detection uses \gptdet as the reference model.
+A more modern reference model might produce different detection patterns, though GPT-2 remains the standard in the literature~\citep{mitchell2023detectgpt,bao2024fastdetectgpt}.
+
+\para{Decoding strategy confound.}
+The \raid dataset includes both greedy and sampling decoding.
+We do not separate these, though both base and aligned variants use the same decoding mix, so this is balanced across conditions.
